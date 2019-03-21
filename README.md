@@ -1,7 +1,7 @@
 
 
 ### For run this app
-    npm run start
+    npm start
 
 ### Testing
     npm test -- --coverage
